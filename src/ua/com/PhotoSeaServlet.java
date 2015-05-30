@@ -23,7 +23,6 @@ public class PhotoSeaServlet extends HttpServlet {
 		out.println(util.getSearchForm(true));
 
 		out.println("</center>");
-		out.println("</span>");
 		out.println("</body>");
 		out.println("</html>");
 	}
